@@ -1,0 +1,23 @@
+BRANDUNI - come metterla sul tuo iPhone
+
+Ti serve farlo una volta sola, circa 10 minuti.
+
+1. Apri lo zip nell'app File: si estrae da solo in una cartella.
+2. Vai su github.com e crea un account gratuito.
+3. Tocca "+" in alto, poi "New repository".
+   Nome: branduni. Lascia "Public". Tocca "Create repository".
+4. Nella pagina che si apre tocca "uploading an existing file".
+   Carica i file della cartella (index.html, manifest.webmanifest, sw.js
+   e le quattro icone .png), poi tocca "Commit changes".
+   Questo LEGGIMI puoi anche non caricarlo.
+5. Vai in Settings, poi Pages.
+   In "Branch" scegli "main" e la cartella "/ (root)", poi tocca Save.
+6. Dopo un paio di minuti l'app è online su:
+   https://IL-TUO-NOME-UTENTE.github.io/branduni/
+7. Apri quell'indirizzo in Safari, tocca Condividi,
+   poi "Aggiungi alla schermata Home".
+
+Da quel momento BRANDUNI si apre come un'app, anche offline, senza login.
+
+I tuoi dati restano solo sul telefono: su GitHub c'è l'app, non i tuoi
+progressi. Ogni tanto salva un backup dalla sezione Libretto.
